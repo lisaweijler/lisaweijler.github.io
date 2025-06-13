@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-20 23:59:00-0400
+date: 2024-03-20 23:59:00-0400
 inline: true
 ---
 
-The works of [Lisa Weijler](https://cvl.tuwien.ac.at/staff/lisa-magdalena-weijler/) and [Sebastian Koch](https://kochsebastian.com/) have been accepted into **WACV 2024**.
+Grateful for the opportunity to co-organize the [WiML Social](https://www.wiml.org/events/wiml-social-%40-iclr-2024) event at ICLR 2024! 

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-12-27 23:59:00-0400
+date: 2024-11-06 23:59:00-0400
 inline: true
 ---
 
-The paper of [Philipp Erle](https://www.cg.tuwien.ac.at/staff/PhilippErler) on surface reconstruction from point clouds has been accepted on **Computer Graphics Forum**.
+Our works [TTTKD](https://phermosilla.github.io/tttkd/) and [SE3Conv3D](https://lisaweijler.github.io/se3conv3d-projectpage/) were accepted at **3DV 2025**!

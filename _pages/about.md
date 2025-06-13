@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor
+subtitle: PhD Student
 
 profile:
   align: right
@@ -14,10 +14,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page 
 ---
 
-I am Assistant Professor in AI for Visual Computing at the [Computer Vision Lab](https://cvl.tuwien.ac.at/), at TU Wien, Austria. 
-Before joining TU Wien, I did my PostDoc at the Viscom group headed by [Prof. Timo Ropinski](https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/) at Ulm University while working in close collaboration with [Prof. Tobias Ritschel](https://www.homepages.ucl.ac.uk/~ucactri/) from University College London.
-I obtained my PhD at the Polytechnical University of Catalonia, under the supervision of [Prof. Pere-Pau Vazquez](https://www.cs.upc.edu/~ppau/) and [Prof. Alvar Vinacua](https://www.cs.upc.edu/~alvar/).
 
-My research is focused on developing machine learning technologies for 3D and unstructured data, with a special interest in `point clouds`, `graphs`, and `implicit representations`.
-During my research, I applied these technologies to solve different problems in the fields of Computer Vision, Computer Graphics, and Bioinformatics.
+I am a PhD student in 3D Vision advised by [Pedro Hermosilla](https://phermosilla.github.io/) at the [Computer Vision Lab](https://cvl.tuwien.ac.at/), at TU Wien, Austria. 
+My research focuses on 3D scene understanding using point cloud representation and geometric deep learning. I get particularly excited about solutions that blend mathematical concepts with modern deep learning in creative ways.
+
+Previously, I worked in the biomedical domain, applying deep learning to cancer cell detection in pediatric leukemia patients, in close collaboration with [CCRI](https://ccri.at/) 
+
+If I’m not deep diving into 3D Vision, I’m diving into the ocean — surfboard included.
+
+
+
+
+
+
+
+
+
 
