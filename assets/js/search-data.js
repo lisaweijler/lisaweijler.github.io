@@ -16,12 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-excited-to-share-that-i-have-started-my-research-journey-in-3d-vision-as-a-university-assistant-under-the-guidance-of-asst-prof-pedro-hermosilla",
+        },{id: "news-i-am-excited-to-share-that-i-have-started-my-research-journey-in-3d-vision-as-a-university-assistant-under-the-guidance-of-asst-prof-pedro-hermosilla",
           title: 'I am excited to share that I have started my research journey in...',
           description: "",
           section: "News",},{id: "news-our-work-fate-was-accepted-at-wacv-2024",
