@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/al-folio/";
@@ -440,16 +440,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-am-excited-to-share-that-i-have-started-my-research-journey-in-3d-vision-as-a-university-assistant-under-the-guidance-of-asst-prof-pedro-hermosilla",
+          title: 'I am excited to share that I have started my research journey in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-our-work-fate-was-accepted-at-wacv-2024",
+          title: 'Our work FATE was accepted at WACV 2024!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-grateful-for-the-opportunity-to-co-organize-the-wiml-social-event-at-iclr-2024",
+          title: 'Grateful for the opportunity to co-organize the WiML Social event at ICLR 2024!...',
+          description: "",
+          section: "News",},{id: "news-our-works-tttkd-and-se3conv3d-were-accepted-at-3dv-2025",
+          title: 'Our works TTTKD and SE3Conv3D were accepted at 3DV 2025!',
+          description: "",
+          section: "News",},{id: "news-i-have-been-accepted-to-attend-icvss-2025-on-computer-vision-for-spatial-intelligence-in-sicily",
+          title: 'I have been accepted to attend ICVSS 2025 on “Computer Vision for Spatial...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
