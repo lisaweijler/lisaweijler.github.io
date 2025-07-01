@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-03-20 23:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Grateful for the opportunity to co-organize the [WiML Social](https://www.wiml.org/events/wiml-social-%40-iclr-2024) event at ICLR 2024! 
