@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student
+subtitle: 
 
 profile:
   align: right
