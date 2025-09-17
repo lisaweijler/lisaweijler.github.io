@@ -31,6 +31,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-been-accepted-to-attend-icvss-2025-on-computer-vision-for-spatial-intelligence-in-sicily",
           title: 'I have been accepted to attend ICVSS 2025 on “Computer Vision for Spatial...',
           description: "",
+          section: "News",},{id: "news-i-won-3rd-place-in-the-best-poster-awards-icvss-2025",
+          title: 'I won 3rd place in the Best-Poster-Awards @ICVSS 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
