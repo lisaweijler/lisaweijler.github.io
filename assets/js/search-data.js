@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-3rd-place-in-the-best-poster-awards-icvss-2025",
           title: 'I won 3rd place in the Best-Poster-Awards @ICVSS 2025!',
           description: "",
+          section: "News",},{id: "news-our-work-openhype-got-accepted-neurips-2025",
+          title: 'Our work OpenHype got accepted @NeurIPS 2025!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
