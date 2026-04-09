@@ -37,6 +37,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-openhype-got-accepted-neurips-2025",
           title: 'Our work OpenHype got accepted @NeurIPS 2025!',
           description: "",
+          section: "News",},{id: "news-i-have-started-a-three-month-research-stay-at-imperial-college-london-i-ll-be-working-within-the-circle-group-led-by-tolga-birdal",
+          title: 'I have started a three-month research stay at Imperial College London. I’ll be...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
