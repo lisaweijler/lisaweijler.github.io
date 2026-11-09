@@ -40,6 +40,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-started-my-three-month-research-stay-imperial-college-london-i-ll-be-working-within-the-circle-group-led-by-tolga-birdal",
           title: 'I have started my three-month research stay @Imperial College London. I’ll be working...',
           description: "",
+          section: "News",},{id: "news-our-work-latent-riemannian-flow-matching-for-geometry-grounded-3d-foundation-models-got-accepted-neurips-2026",
+          title: 'Our work Latent Riemannian Flow Matching for Geometry-Grounded 3D Foundation Models got accepted...',
+          description: "",
+          section: "News",},{id: "news-i-was-nominated-as-a-top-reviewer-for-neurips-2026",
+          title: 'I was nominated as a Top Reviewer for NeurIPS 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
